@@ -70,7 +70,7 @@ Full-featured storefront with advanced state management and SSR.
 I'm always excited to discuss new opportunities, tech trends, or potential collaborations!
 
 - 💼 [LinkedIn](https://linkedin.com/in/muhammad-faizan-05093b2a4)
-- 🌐 [Portfolio](https://your-portfolio-link.vercel.app)
+- 🌐 [Portfolio](https://portfolio-seven-navy-uogs7p3msb.vercel.app/)
 - 📧 codex9175@gmail.com
 
 ---
