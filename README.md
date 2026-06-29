@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-faizan-05093b2a4)
 [![Email](https://img.shields.io/badge/Email-codex9175@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:codex9175@gmail.com)
-[![Portfolio](https://portfolio-seven-navy-uogs7p3msb.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge)]([https://your-portfolio-link.vercel.app](https://portfolio-seven-navy-uogs7p3msb.vercel.app/))
 
 ---
 
